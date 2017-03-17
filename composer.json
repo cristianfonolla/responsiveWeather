@@ -1,0 +1,10 @@
+{
+    "name": "root/responsive-weather",
+    "authors": [
+        {
+            "name": "cristian",
+            "email": "cristian.fonolla@gmail.com"
+        }
+    ],
+    "require": {}
+}
