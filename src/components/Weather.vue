@@ -40,7 +40,7 @@
       return {
         location: 'Tortosa, ES',
         date: 'Tursday, Abril 2017',
-        description: 'desc here',
+        description: 'Little description here',
         temp: 13,
         precipitation: '75%',
         humidity: '89%',
