@@ -1,5 +1,7 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 var path = require('path')
+console.log(__dirname);
+console.log("prova");
 
 module.exports = {
   build: {
